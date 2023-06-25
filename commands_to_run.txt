@@ -1,0 +1,10 @@
+For backend code ->
+
+cd backend/
+uvicorn main:app
+______________________
+
+For frontend code ->
+
+cd frontend/
+npm start
